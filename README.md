@@ -9,15 +9,17 @@ Before starting be sure you have all the tools and materials needed.
 - [ ] Utility knife
 - [ ] Scissor
 - [ ] Ruler
-- [ ] Adhesive tap
 
 ## Materials
 - [ ] Printed template (that you can find here)
-- [ ] Cardboard
-- [ ] Mirror
+- [ ] Piece of cardboard - 380x260mm
+- [ ] Mirror - 60x60mm
+- [ ] Transparent plastic sheet - 105x50mm
 - [ ] Sponge
-- [ ] Transparent plastic sheet
-- [ ] Wooden stir stick
+- [ ] Flat stir stick
+- [ ] Stretch utility strap
+- [ ] Rubber band
+- [ ] Adhesive tap
 
 ## Advice
 Plastic sheet will be use for the screen. You should avoid to get one thicker than 0.25mm otherwise the result will be blur because Pepper's ghost effect appear on each side. (Here is the problem)
