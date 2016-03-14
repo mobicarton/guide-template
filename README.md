@@ -21,5 +21,5 @@ Before starting be sure you have all the tools and materials needed.
 - [ ] Rubber band
 - [ ] Adhesive tap
 
-## Advice
-Plastic sheet will be use for the screen. You should avoid to get one thicker than 0.25mm otherwise the result will be blur because Pepper's ghost effect appear on each side. (Here is the problem)
+##### Advice
+Plastic sheet will be use for the screen. You should avoid to get one thicker than 0.25mm otherwise the result will be blur because [Pepper's ghost effect](https://en.wikipedia.org/wiki/Pepper%27s_ghost) appear on each side.
