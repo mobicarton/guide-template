@@ -31,7 +31,15 @@ Plastic sheet will be use for the screen. You should avoid to get one thicker th
 1. Join part 1 and 2 of your template according to the legend
 2. Glue the full template onto cardboard
 3. Cut out the cardboard following each continuous line (every thin continuous line)
-4. Fold in any order for each arrow to the right side according to the legend
+4. Fold for each arrow (in any order) to the correct side according to the legend
 5. Cut the inside part - bold continuous line (this steps after first folding because removing inside part make the cardboard weaker)
-6. Construct the headset by folding again but following the ordered numbers
+6. Put your rubber band around the cardboard according to the legend for the location
+7. Break the flat stir stick to make it 135mm
+8. Tap the transparent plastic sheet to the flat stir stick
+9. Construct the headset by folding again but following the ordered numbers
   - Add some adhesive right after number **1** and **7**
+  - Insert the plastic sheet with the flat stir stick just before number ****
+  - Add some adhesive right after number **1**
+10. Use double sided-adhesive or glue stick to stick the sponge in his location
+11. Insert the stretch utility strap
+That's it ! Finish
