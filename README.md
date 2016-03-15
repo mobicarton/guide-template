@@ -42,4 +42,5 @@ Plastic sheet will be use for the screen. You should avoid to get one thicker th
   - Add some adhesive right after number **1**
 10. Use double sided-adhesive or glue stick to stick the sponge in his location
 11. Insert the stretch utility strap
-That's it ! Finish
+
+**That's it ! Finish**
