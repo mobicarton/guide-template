@@ -37,9 +37,10 @@ Plastic sheet will be use for the screen. You should avoid to get one thicker th
 7. Break the flat stir stick to make it 135mm
 8. Tap the transparent plastic sheet to the flat stir stick
 9. Construct the headset by folding again but following the ordered numbers
-  - Add some adhesive right after number **1** and **7**
-  - Insert the plastic sheet with the flat stir stick just before number ****
-  - Add some adhesive right after number **1**
+  - Add adhesive **1** and **2** after folding **1**
+  - Add adhesive **3** after folding **7**
+  - Insert the plastic sheet with the flat stir stick before folding **11**
+  - Add adhesive **4** after folding **12**
 10. Use double sided-adhesive or glue stick to stick the sponge in his location
 11. Insert the stretch utility strap
 
