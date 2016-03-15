@@ -12,7 +12,7 @@ Before starting be sure you have all the tools and materials needed.
 - [ ] Glue stick
 
 ## Materials
-- [ ] Printed template (that you can find here)
+- [ ] Printed [template](/template.pdf)
 - [ ] 2 piece of cardboard - 380x260mm and 240x170mm
 - [ ] Mirror - 60x60mm
 - [ ] Transparent plastic sheet - 105x50mm
