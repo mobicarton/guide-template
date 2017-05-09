@@ -3,15 +3,22 @@ _Cheap Augmented Reality Tool_
 
 This DIY project aims to provide an easy and cheap way to get your own augmented reality headset.
 
+## Press and Litterature
+
+* http://www.lapresse.ca/le-soleil/affaires/techno/201704/09/01-5086969-des-lunettes-de-realite-augmentee-a-17-plutot-que-1000-.php (with video tutorial)
+* http://r-libre.teluq.ca/1029/
+
+## Make your own Carton Augemented Reality glasses
+
 Before starting be sure you have all the tools and materials needed.
 
-## Tools
+### Tools
 - [ ] Utility knife
 - [ ] Scissor
 - [ ] Ruler
 - [ ] Glue stick
 
-## Materials
+### Materials
 - [ ] Printed [template](/template.pdf)
 - [ ] 2 pieces of cardboard - 380x260mm and 240x170mm
 - [ ] Mirror - 60x60mm
@@ -27,7 +34,10 @@ The plastic sheet will be used for the screen. You should avoid to getting one t
 
 
 
-## Steps
+### Steps
+
+_See also [this video tutorial]( http://www.lapresse.ca/le-soleil/affaires/techno/201704/09/01-5086969-des-lunettes-de-realite-augmentee-a-17-plutot-que-1000-.php)_
+
 1. Join parts 1 and 2 of your template according to the legend. You should get some like this :
 ![Alt text](/template_full.png?raw=true "Template Full")
 2. Glue the full template onto cardboard
